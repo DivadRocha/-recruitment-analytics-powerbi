@@ -330,11 +330,8 @@ recruitment-analytics/
 
 ## 👤 Autor
 
-**[Seu Nome]**  
+David Rocha 
 Data Analyst | Power BI Specialist  
-📧 [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-💼 [Portfolio](https://seu-portfolio.com)
 
 ---
 
